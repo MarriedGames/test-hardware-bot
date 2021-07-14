@@ -17,7 +17,7 @@ O teste tem como foco mostrar a criatividade do desenvolvedor em soluções de p
 - Deve considerar uma arquitetura/estrutura modular
 - Códido limpo não é opcional
 - Pense no problema apresentado e aplique a melhor solução não apenas como desenvolvedor, tente pensar a frente e além, seja criativo.
-- Construa um banco de dados (relacional ou não) organizado e otimizado, você precisa no mínimo do nome do jogo, uma thumbnail, e os requisitos (tem bonus para dados extras)
+- Construa um banco de dados (relacional ou não) organizado e otimizado
 - Crie uma API rest com autenticação 
 - Exporte os dados para uma planilha XLS **OU** use uma API de um site wordpress (fake é claro) para inputar esses dados em um custom post type
 - Docker, sim, microserviços, mostre que sabe fazer algo fácil de escalar (não é a toa que a estrutura é modular :P)
